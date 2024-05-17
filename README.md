@@ -11,5 +11,7 @@ I'm always eager to learn and grow, constantly exploring best practices for writ
 
 🌐 **Connect with Me**  
 Check out my personal blog and forum at [miksz.cc](https://miksz.cc) where I share insights, projects, and more.
+
+
 ![](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)
 

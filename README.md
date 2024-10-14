@@ -13,6 +13,6 @@ I’ve recently started learning Unity and VRChat modeling, and though I’m sti
 Driven by a love for learning, I'm constantly seeking to enhance my skills. I prioritize writing clean, maintainable code, optimizing technical structures, and improving user experiences. Continuous growth and development are at the core of my work ethic.
 
 🌐 **Let's Connect!**  
-Visit my personal blog and forum at [miksz.cc](https://miksz.cc), where I share insights, projects, and more.
+Visit my personal blog and forum at [rice-shower.com](https://rice-shower.com), where I share insights, projects, and more.
 
 ![Huaizhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)

@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Huaizhu!
+# 👋 Hi, I'm Huaizhu!
 
 🌟 **Enthusiast in Business Development**  
 I'm deeply passionate about exploring cutting-edge technologies and crafting innovative solutions in the realm of business development. My enthusiasm for web development drives me to work on projects that stretch the boundaries of what's possible online.
@@ -12,7 +12,15 @@ I’ve recently started learning Unity and VRChat modeling, and though I’m sti
 📚 **Committed Lifelong Learner**  
 Driven by a love for learning, I'm constantly seeking to enhance my skills. I prioritize writing clean, maintainable code, optimizing technical structures, and improving user experiences. Continuous growth and development are at the core of my work ethic.
 
-🌐 **Let's Connect!**  
+## 🌐 Let's Connect!
 Visit my personal blog and forum at [rice-shower.com](https://rice-shower.com), where I share insights, projects, and more.
 
+📫 **Contact Me**:
+- **Email:** support@rice-shower.com
+
+
+## 📊 GitHub Stats
 ![Huaizhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)
+
+## 🙏 Acknowledgements
+Thank you to all the amazing developers and resources that have helped me along my journey. Special shoutout to the open-source community for their invaluable contributions.

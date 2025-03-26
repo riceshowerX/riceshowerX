@@ -1,26 +1,39 @@
-# 👋 Hi, I'm Huaizhu!
+# 👋 Hello, I'm Huaizhu!
 
-🌟 **Enthusiast in Business Development**  
-I'm deeply passionate about exploring cutting-edge technologies and crafting innovative solutions in the realm of business development. My enthusiasm for web development drives me to work on projects that stretch the boundaries of what's possible online.
+🚀 **Business Development Explorer | Web Tech Enthusiast**  
+Driven by curiosity about cutting-edge technologies, I enjoy building innovative solutions at the intersection of business strategy and web development. My work focuses on pushing the boundaries of digital experiences through technical creativity.
 
-💻 **Web Development Aficionado**  
-I specialize in various web technologies, including FastAPI, asyncio, aiohttp, uvicorn, and WebSocket. My projects focus on creating high-performance, scalable tools for web requests, scraping, and online interface testing.
+🛠 **Current Technical Adventures**  
+- **Web Exploration**: Building small-scale projects with FastAPI, WebSocket, and asyncio  
+- **Learning Focus**:  
+  - Asynchronous Python patterns (aiohttp, Uvicorn)  
+  - Web scraping/API testing tools  
+  - Basic 3D asset workflows for Unity/VRChat  
 
-🎮 **Exploring Unity and VRChat Modeling**  
-I’ve recently started learning Unity and VRChat modeling, and though I’m still a beginner, I’m excited about the journey ahead. There’s so much to learn, and I’m gradually getting the hang of creating and customizing 3D models. To all the other beginners out there—keep going! We all start somewhere, and every small step forward is progress.
+💡 _"Still figuring out how to make these tools dance together, but that's half the fun!"_
 
-📚 **Committed Lifelong Learner**  
-Driven by a love for learning, I'm constantly seeking to enhance my skills. I prioritize writing clean, maintainable code, optimizing technical structures, and improving user experiences. Continuous growth and development are at the core of my work ethic.
+🎮 **Creative Side Projects**  
+Currently leveling up my skills in:  
+- Unity game development  
+- VRChat avatar/scene creation  
+- 3D modeling workflows  
+*Always happy to connect with fellow learners in the gamedev space!*
 
-## 🌐 Let's Connect!
-Visit my personal blog and forum at [rice-shower.com](https://rice-shower.com), where I share insights, projects, and more.
+🧠 **Learning Philosophy**  
+- Advocate for clean code practices and user-centric design  
+- Constantly exploring: Cloud architecture | DevOps pipelines | Emerging web standards  
+- Passionate about translating technical concepts into business value
 
-📫 **Contact Me**:
-- **Email:** support@rice-shower.com
+## 🌐 Connect With Me
+- 📖 Blog: [rice-shower.com](https://rice-shower.com) (Tips, tutorials, and project deep-dives)  
+- ✉️ Email: support@rice-shower.com  
+- 🔗 LinkedIn: [Add your LinkedIn if available]  
 
+## 📊 Activity Snapshot
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)
 
-## 📊 GitHub Stats
-![Huaizhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)
-
-## 🙏 Acknowledgements
-Thank you to all the amazing developers and resources that have helped me along my journey. Special shoutout to the open-source community for their invaluable contributions.
+## 🙌 Community Love
+Grateful to the open-source ecosystem and mentors who've shaped my journey. Special thanks to:  
+- The FastAPI community for their exceptional documentation  
+- VRChat creators sharing tutorials on YouTube/Patreon  
+- All maintainers advancing web development tooling

@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riceshowerx&theme=radical" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riceshowerX&theme=radical" alt="Streak Stats" />
 </div>
 
 ---

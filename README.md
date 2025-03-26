@@ -1,38 +1,70 @@
-# 👋 Hello, I'm Huaizhu!
+# 👋 Huaizhu - Tech Explorer & Aspiring Creator
 
-🚀 **Business Development Explorer | Web Tech Enthusiast**  
-Driven by curiosity about cutting-edge technologies, I enjoy building innovative solutions at the intersection of business strategy and web development. My work focuses on pushing the boundaries of digital experiences through technical creativity.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riceshowerX&theme=radical" alt="Streak Stats" />
+</div>
 
-🛠 **Current Technical Adventures**  
-- **Web Exploration**: Building small-scale projects with FastAPI, WebSocket, and asyncio  
-- **Learning Focus**:  
-  - Asynchronous Python patterns (aiohttp, Uvicorn)  
-  - Web scraping/API testing tools  
-  - Basic 3D asset workflows for Unity/VRChat  
+---
 
-💡 _"Still figuring out how to make these tools dance together, but that's half the fun!"_
+## 🚀 My Mission
 
-🎮 **Creative Side Projects**  
-Currently leveling up my skills in:  
-- Unity game development  
-- VRChat avatar/scene creation  
-- 3D modeling workflows  
-*Always happy to connect with fellow learners in the gamedev space!*
+> "Building bridges between business innovation and technical possibility, one experiment at a time."
 
-🧠 **Learning Philosophy**  
-- Advocate for clean code practices and user-centric design  
-- Constantly exploring: Cloud architecture | DevOps pipelines | Emerging web standards  
-- Passionate about translating technical concepts into business value
+As a curious mind at the intersection of **business development** and **web technologies**, I love exploring how technical solutions can create meaningful digital experiences. My journey is guided by equal parts caffeine and curiosity.
 
-## 🌐 Connect With Me
-- 📖 Blog: [rice-shower.com](https://rice-shower.com) (Tips, tutorials, and project deep-dives)  
-- ✉️ Email: huaizhu@miksz.cc
+---
 
-## 📊 Activity Snapshot
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)
+## 🛠 Technical Playground
 
-## 🙌 Community Love
-Grateful to the open-source ecosystem and mentors who've shaped my journey. Special thanks to:  
-- The FastAPI community for their exceptional documentation  
-- VRChat creators sharing tutorials on YouTube/Patreon  
-- All maintainers advancing web development tooling
+| Core Tools | Learning Curve | Experiment Ideas |
+|-----------|----------------|------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) FastAPI • WebSocket • asyncio | 📈 Asynchronous patterns with `aiohttp` | 🚧 Real-time chatbots |
+| ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) VRChat • Blender | 📈 3D asset pipelines | 🚧 Interactive web3D demos |
+| 🕵️ Web Scraping • API Testing | 📈 CI/CD basics | 🚧 Automated monitoring tools |
+
+💡 _"Currently trying to make Python and Unity play nice together - wish me luck!"_
+
+---
+
+## 🎮 Creative Sandbox
+
+- **Unity Adventures**:
+  `C# Basics` ▫️ `Shader Graph` ▫️ `VRChat SDK`
+  _Latest project: Animated cat ears avatar (work-in-progress)_
+- **3D Modeling Journey**:
+  `Blender beginner` ▫️ `Retopology struggles` ▫️ `Texture painting experiments`
+
+---
+
+## 🧠 Growth Philosophy
+
+✅ **Code Cleanliness** > Clever hacks
+✅ **User Experience** > Technical complexity
+✅ **Iterative progress** > Perfect execution
+
+```diff
++ Currently obsessed with: 
++ • Serverless architectures
++ • WebXR possibilities
++ • Documentation-driven development
+```
+---
+
+## 🌐 Let's Collaborate!
+
+[![Blog](https://img.shields.io/badge/Blog-ffd700?style=for-the-badge&logo=ghost)](https://rice-shower.com)
+[![Email](https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail)](mailto:huaizhu@miksz.cc)
+
+---
+
+## 🙌 Standing on the Shoulders of Giants
+
+Special thanks to:
+
+- [@tiangolo](https://github.com/tiangolo) for FastAPI magic
+- [VRChat Tutorial Creators](https://www.youtube.com/c/VRChat) community
+- All open-source maintainers making tools like `uvicorn` possible
+
+*"The only thing better than learning is learning in public."*
+

@@ -26,8 +26,7 @@ Currently leveling up my skills in:
 
 ## 🌐 Connect With Me
 - 📖 Blog: [rice-shower.com](https://rice-shower.com) (Tips, tutorials, and project deep-dives)  
-- ✉️ Email: support@rice-shower.com  
-- 🔗 LinkedIn: [Add your LinkedIn if available]  
+- ✉️ Email: huaizhu@miksz.cc
 
 ## 📊 Activity Snapshot
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riceshowerX&show_icons=true&theme=transparent)

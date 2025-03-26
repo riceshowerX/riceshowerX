@@ -9,9 +9,9 @@
 
 ## 🚀 My Mission
 
-> "Building bridges between business innovation and technical possibility, one experiment at a time."
+> "Connecting the dots between fresh ideas and the tech that brings them to life, one experiment at a time."
 
-As a curious mind at the intersection of **business development** and **web technologies**, I love exploring how technical solutions can create meaningful digital experiences. My journey is guided by equal parts caffeine and curiosity.
+I'm passionate about exploring how technology can shape engaging digital experiences, blending strategic thinking with hands-on web development. My journey is fueled by curiosity (and a steady supply of good tea).
 
 ---
 
